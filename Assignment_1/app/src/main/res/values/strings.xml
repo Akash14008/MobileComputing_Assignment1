@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prime Number Quiz</string>
+    <string name="isPrime">Is it a Prime Number?</string>
+    <string name="correctText">Correct</string>
+    <string name="incorrectText">Incorrect</string>
+    <string name="nextText">Next</string>
+</resources>
